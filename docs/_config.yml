@@ -1,9 +1,5 @@
-title:  "이종성 Lee"
-description: "서울대 사회복지학과"
+title: "이종성 Lee"
+description: "서울대 사학부질학과"
 remote_theme: mmistakes/minimal-mistakes@4.27.3
 plugins:
   - jekyll-include-cache
-header_pages:
-  - research.md
-  - teaching.md
-  - cv.md
