@@ -1,5 +1,14 @@
 title: "이종성 Lee"
-description: "서울대 사학부질학과"
+description: "서울대학교 사회보지학과"
 remote_theme: mmistakes/minimal-mistakes@4.27.3
+
+url: "https://jslee-policy.github.io"
+baseurl: "/jslee"
+
+locale: "ko-KR"
+
 plugins:
   - jekyll-include-cache
+
+masthead_title: "J.S. Lee"
+copyright: "© 2025 Jong‑Sung Lee"
